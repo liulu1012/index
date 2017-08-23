@@ -1,37 +1,38 @@
 {
 	"arrs":[
-		"name": "德园苗木",
-		"price": "1",
-		"intro": "昌黎德园苗木基地",
-		"content": [
-			{
-				"header": "第一德园苗木",
-				"section": [
+		{"name": "德园苗木",
+				"price": "1",
+				"intro": "昌黎德园苗木基地",
+				"content": [
 					{
-						"title": "德园1"
+						"header": "第一德园苗木",
+						"section": [
+							{
+								"title": "德园1"
+							},
+							{
+								"title": "德园2"
+							},
+							{
+								"title": "德园3"
+							}
+						]	
 					},
 					{
-						"title": "德园2"
-					},
-					{
-						"title": "德园3"
-					}
-				]	
-			},
-			{
-				"header": "第二德园苗木",
-				"section": [
-					{
-						"title": "红叶1"
-					},
-					{
-						"title": "红叶2"
-					},
-					{
-						"title: "红叶3"
+						"header": "第二德园苗木",
+						"section": [
+							{
+								"title": "红叶1"
+							},
+							{
+								"title": "红叶2"
+							},
+							{
+								"title": "红叶三"
+							}
+						]
 					}
 				]
-			}
-		]
+		}
 	]
 }
